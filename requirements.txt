@@ -1,0 +1,7 @@
+numpy>=2.0        # np.trapezoid is used by the quality engine
+scipy
+pandas
+PyQt5
+pyqtgraph
+pyserial          # only needed for the STM32 serial source
+tables            # pandas HDF5 export (PyTables)

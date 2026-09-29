@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+# exported measurement data
+*.csv
+*.h5
+*_meta.json
